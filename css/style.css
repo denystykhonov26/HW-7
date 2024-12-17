@@ -1,0 +1,12 @@
+ul > li > a[href^="https"] {
+    color: red;
+  }
+p:nth-last-of-type(1) {
+    font-size: 24px;
+}
+/* ₴робити ось так₴ a [href^="https"] {
+  color: tomato;
+} */
+ul + p {
+  font-size: 24px;
+}
